@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.DS_Store
+**/.DS_Store
+.claude/
+*.swp
+*.swo
+.vscode/
+.env
+.env.*
+.npmrc
+*.tsbuildinfo
